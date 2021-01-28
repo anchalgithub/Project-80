@@ -54,7 +54,7 @@ Settings : {screen : Settings}
 
 
 const switchNavigator = createSwitchNavigator({
-/*WelcomeScreen:{screen: WelcomeScreen},*/
+WelcomeScreen:{screen: WelcomeScreen},
 AppDrawNavigator : AppDrawNavigator,
 })
 
